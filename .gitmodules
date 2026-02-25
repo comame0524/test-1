@@ -1,0 +1,4 @@
+[submodule "hogehoge"]
+    path = sub
+    url = https://github.com/comame0524/test-2.git
+    branch = main
